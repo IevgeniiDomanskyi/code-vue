@@ -1,29 +1,26 @@
-# code-vue.da
+# Map test task
 
-## Project setup
+Simple map with markers and filtering
+
+## Installation
+
+Clone project from repo https://github.com/IevgeniiDomanskyi/code-vue (dev branch).
+
+```bash
+git clone https://github.com/IevgeniiDomanskyi/code-vue.git map_test_task
 ```
+
+Use the package manager [npm](https://www.npmjs.com/) to install project.
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Run
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
